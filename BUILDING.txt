@@ -1,4 +1,5 @@
 Build instructions for Hadoop
+* https://cleverowl.uk/2015/06/30/compiling-2-7-0-on-64-bit-linux/
 
 ----------------------------------------------------------------------------------
 Requirements:
